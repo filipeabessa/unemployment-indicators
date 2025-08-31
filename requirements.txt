@@ -1,0 +1,5 @@
+streamlit>=1.36
+pandas>=2.3
+requests>=2.32
+sidrapy>=0.1.4
+altair>=5.3
