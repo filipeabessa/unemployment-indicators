@@ -3,6 +3,10 @@
 App **Streamlit** para visualizar a **taxa de desocupação** (PNADC) por **UF** ao longo do tempo.
 Selecione as UFs e clique **Gerar gráfico**. O app mostra **tabela completa**, **gráfico** e permite **baixar CSV**.
 
+**Acesse online:** [unemployment-indicators.streamlit.app](https://unemployment-indicators.streamlit.app/)
+
+> As instruções a seguir destinam-se apenas aos usuários que desejam executar o projeto localmente.
+
 ## Requisitos
 
 - Python 3.10+
